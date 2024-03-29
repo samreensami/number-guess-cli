@@ -18,6 +18,6 @@ if(answer.userGuessedNumber===randomNumber)
     {
 console.log("congratulation ! you Guessed a correct Number.");
     }
-    else {console.log("sorry,you guessed a wrongNumber");
+    else {console.log("sorry,you guessed a wrong Number");
 
     }
